@@ -1,4 +1,4 @@
-# Python-Tank-Game by Michael Szemborski
+# Python_Tank_Battle by Michael Szemborski
 Tank Game written in Python.  Requires Python 3.x and pygame
 
 Great thanks to Steve Paget for pygame_functions.py
